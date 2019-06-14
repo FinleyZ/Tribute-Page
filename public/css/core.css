@@ -1,5 +1,6 @@
 main{
   background-color: hsl(210, 100%, 90%);
+
 }
 
 div{
@@ -14,8 +15,8 @@ margin-bottom: ;
 }
 
 #img-div{
-background-color:hsl(240, 80%, 92%);
-padding: 30px;
+background-color:hsl(210, 100%, 92%);
+padding: 50px;
 }
 
 #img-caption{
@@ -31,4 +32,9 @@ padding: 30px;
 #tribute-info{
   position: relative;
   margin-top: 40px;
+}
+
+footer{
+  margin-top: -18PX;
+  background-color: hsl(210, 100%, 90%);
 }
