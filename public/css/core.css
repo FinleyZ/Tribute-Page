@@ -1,40 +1,67 @@
+html{
+  font-size: 10px;
+}
 main{
   background-color: hsl(210, 100%, 90%);
-
+  margin: 20px 8px;
+  border-radius: 10px;
+  font-family:  "Segoe UI", "Roboto", "Helvetica Neue";
 }
 
-div{
+#title-description{
+  font-size: 1.5em;
+}
+
+#content{
 background-color:hsl(240, 80%, 92%);
-position: relative;
-margin-bottom: ;
+padding-bottom: 50px;
+width: 80%;
 }
 
 #title{
-
+font-size: 3em;
+line-height: 100px;
 
 }
 
 #img-div{
 background-color:hsl(210, 100%, 92%);
-padding: 50px;
+padding: 25px 100px;
+border-radius: 10px;
 }
 
 #img-caption{
-
+font-size:17px;
+  text-align: center;text-align: center;
 }
 
 #finleys-eyes{
   position: relative;
-  margin-top: 20px;
+  margin: 100px auto;
+  width: 55%;
+  font-size: 1.2em;
+  line-height: 25px
 
 }
 
 #tribute-info{
   position: relative;
-  margin-top: 40px;
+  margin-top: 100px;
+  line-height: 30px;
 }
 
+p{
+    font-size: 17px;
+    line-height: 30px;
+    text-align: center;
+}
+
+#cite{
+  font-size: 15px;
+  line-height: 50px;
+  text-align: center;
+}
 footer{
-  margin-top: -18PX;
+  padding: 5px;
   background-color: hsl(210, 100%, 90%);
 }
